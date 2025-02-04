@@ -3,7 +3,7 @@
 <ul>
   <li>Site name: "Money mate";</li>
   <li>Web developer: Andriy Ovcharov;</li>
-  <li>Development date: 04.02.2023;</li>
+  <li>Development date: 04.02.2025;</li>
   <li>
     <p>Brief description:</p>
     <p>This website is about a financial app that helps users manage their money, plan budgets, and achieve financial goals.</p>
